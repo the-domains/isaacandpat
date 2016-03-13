@@ -1,0 +1,28 @@
+name: isaacandpat
+favicon: null
+layout_spectrum: 0.9463670877739787
+typography_spectrum: 0.9749606410041451
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7950511740054935
+  lightness: 0.910563533892855
+  saturation: 0.48893492482602596
+  rhythmicContrast: 0.5163117938209325
+purpose: []
